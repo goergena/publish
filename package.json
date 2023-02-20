@@ -1,0 +1,22 @@
+{
+  "name": "@goergena/publish",
+  "version": "1.0.0",
+  "description": "testing publishing a repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goergena/publish.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "Ali Goergen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/goergena/publish/issues"
+  },
+  "homepage": "https://github.com/goergena/publish#readme"
+}
